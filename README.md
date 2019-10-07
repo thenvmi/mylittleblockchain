@@ -2,7 +2,7 @@
 
 The NVMI junior intern's simple blockchain in Javascript with proof of work. 
 
-'code'
+`code
 Difficulty: 4
 Mining block 1...
 Block mined: 000071c351069df2402c884c887ceb7f582448e69bc37264046896dfc13e4fa7
@@ -63,3 +63,4 @@ Time cost: 137.68802401423454 milliseconds.
     "difficulty": 4
 }
 Unmolested Blockchain? true
+`code`
