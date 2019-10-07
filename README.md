@@ -64,7 +64,7 @@ Time cost: 137.68802401423454 milliseconds.
 }
 Unmolested Blockchain? true
 ```
-##Todo
+# todo
 - [ ] Implement a transaction list in block
 - [ ] As user to specify block time, which increases difficulty
 - [ ] Compute hypothetical time to remine the whole blockchain
