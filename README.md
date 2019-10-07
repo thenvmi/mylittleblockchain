@@ -66,7 +66,7 @@ Unmolested Blockchain? true
 ```
 # todo
 - [ ] Implement a transaction list in block
-- [ ] As user to specify block time, which increases difficulty
+- [ ] Ask user to specify block time, which increases difficulty
 - [ ] Compute hypothetical time to remine the whole blockchain
 - [ ] Public and private key pair for transactions and computing of each balance
 - [ ] Angular UX to play with the blockchain
