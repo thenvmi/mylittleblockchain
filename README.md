@@ -1,2 +1,3 @@
 # mylittleblockchain
-simple blockchain in javascript and angular
+
+The NVMI intern's simple blockchain in Javascript with proof of  work. 
