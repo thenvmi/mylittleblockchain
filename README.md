@@ -64,5 +64,11 @@ Time cost: 137.68802401423454 milliseconds.
 }
 Unmolested Blockchain? true
 ```
-
+##Todo
+- [ ] Implement a transaction list in block
+- [ ] As user to specify block time, which increases difficulty
+- [ ] Compute hypothetical time to remine the whole blockchain
+- [ ] Public and private key pair for transactions and computing of each balance
+- [ ] Angular UX to play with the blockchain
+- [ ] Invent a new consensus mechanism 
 
